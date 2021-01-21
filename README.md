@@ -2,6 +2,6 @@
 
 This repository contains data and evaluation code for the following paper:
 
-Supplementary materials available [here]().
+Supplementary material is available [here]().
 
 We expect that most users will be interested in the [data](data) directory, that contains the Chinese corpus automatically annotated with Tense Information.
