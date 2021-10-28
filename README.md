@@ -7,7 +7,7 @@ We expect that most users will be interested in the [data](data) directory, whic
 ---
 If you use our code or corpus, please consider citing our paper:
 ```
-inproceedings{li-wisniewski-2021-neural,
+@inproceedings{li-wisniewski-2021-neural,
     title = "Are Neural Networks Extracting Linguistic Properties or Memorizing Training Data? An Observation with a Multilingual Probe for Predicting Tense",
     author = "Li, Bingzhi  and
       Wisniewski, Guillaume",
